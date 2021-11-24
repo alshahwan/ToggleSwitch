@@ -46,7 +46,7 @@ html, body {
     transition: ease-in-out .3s;
 }
 .night-c {
-    background-image: url(/moon.png) !important;
+    background-image: url('moon.png') !important;
     background-size: cover;
     margin-left: 16.5rem;
 }
