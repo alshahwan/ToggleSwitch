@@ -8,3 +8,8 @@ A toggle button made with HTML, CSS and few lines of JS, it can also be made usi
 # Usage Rights
 
 This concept was inspired by several pages on the web so it's not only my effort, you are free to re-use it and modify it as you like 
+
+# How to use it
+
+The code is pretty simple and readable, i only used rem unit so if you want to change the size you just need to change the font-size in the :root
+
