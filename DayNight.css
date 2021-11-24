@@ -51,7 +51,7 @@ html, body {
     margin-left: 16.5rem;
 }
 .night-s {
-    background-image: url(/night.png);
+    background-image: url('night.png');
     text-align: right;
 }
 .night-b {
