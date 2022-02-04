@@ -7,7 +7,7 @@ A toggle button made with HTML, CSS and few lines of JS, it can also be made usi
   
 # Usage Rights
 
-This concept was inspired by several pages on the web so it's not only my effort, you are free to re-use it and modify it as you like 
+This concept was inspired by several pages on the web so it's not only my effort, you are free to re-use it and modify it as you like for commercial and personal projects.
 
 # How to use it
 
